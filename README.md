@@ -10,7 +10,7 @@ You can start the application by "npm run start:dev" then app starts up the back
 
 ## Screenshoots
 
-[!img](./Assets/Screen%20Shot%202023-02-15%20at%203.28.22%20PM.png)
-[!img](./Assets/Screen%20Shot%202023-02-15%20at%203.37.28%20PM.png)
-[!img](./Assets/Screen%20Shot%202023-02-15%20at%203.38.02%20PM.png)
-[!img](./Assets/Screen%20Shot%202023-02-15%20at%203.38.26%20PM.png)
+![img](./Assets/Screen%20Shot%202023-02-15%20at%203.28.22%20PM.png)
+![img](./Assets/Screen%20Shot%202023-02-15%20at%203.37.28%20PM.png)
+![img](./Assets/Screen%20Shot%202023-02-15%20at%203.38.02%20PM.png)
+![img](./Assets/Screen%20Shot%202023-02-15%20at%203.38.26%20PM.png)
